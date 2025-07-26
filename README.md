@@ -1,6 +1,6 @@
-# Configurações do VS Code
+# VS Code - Configurações
 
-Este repositório (ou arquivo) serve para documentar minhas preferências de personalização e usabilidade no Visual Studio Code.
+Repositório serve para **documentar** minha personalização e usabilidade no Visual Studio Code.
 
 ## Configurações
 
